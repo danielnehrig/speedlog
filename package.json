@@ -12,8 +12,10 @@
     "storybook": "start-storybook -p 6006 -c .storybook"
   },
   "dependencies": {
+    "apollo-client": "^2.6.10",
     "next": "10.0.0",
     "react": "16.14.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "16.14.0"
   },
   "devDependencies": {
